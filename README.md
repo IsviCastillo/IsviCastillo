@@ -4,7 +4,6 @@
 
 <p align="center" width="150px">I am a student in the Software Development Engineering program.<br>I am currently learning the fundamentals of Java. After completing my studies, I want to specialize in cybersecurity.</p>
 
-<br>
 
 ###  &nbsp;GitHub Analytics
 
@@ -22,8 +21,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+
+    
 
 </p>
 
@@ -34,3 +34,4 @@
     <img src="https://img.shields.io/badge/🎧_Listen_Hear_Me_Tonight-00B4D8?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
