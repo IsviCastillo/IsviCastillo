@@ -24,6 +24,4 @@
 [![Web](https://img.shields.io/badge/🔊_Listen_Here-00B4D8?style=for-the-badge)](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6?si=2c835d10f7d44a7f)
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IsviCastillo&repo=IsviCastillo&countColorcountColor&countColor=%2300B4D8"/>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IsviCastillo&repo=IsviCastillo&countColorcountColor&countColor=%2300B4D8"/>
