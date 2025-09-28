@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6">
-    🎶 **Modjo - Hear Me Tonight**
+    <img src="https://img.shields.io/badge/🎧_Listen_Hear_Me_Tonight-00B4D8?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>
