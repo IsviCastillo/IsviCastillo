@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## 🎵 My Favorite Song
+## 🎵 Nostalgic song
 
 <p align="center">
   <a href="https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6">
