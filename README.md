@@ -16,12 +16,13 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+
 ### Spotify Playing 🎧
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6?si=2c835d10f7d44a7f)
-🎵 **Lady - Hear Me Tonight**
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31qpjq5x4fqj4e7v3vowj5nqibpi&cover_image=true&theme=novatorem&bar_color=00B4D8&bar_color_cover=false)](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6?si=2c835d10f7d44a7f)
 
-[![Web](https://img.shields.io/badge/🔊_Listen_Here-00B4D8?style=for-the-badge)](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6?si=2c835d10f7d44a7f)
+**Now Playing:** Lady - Hear Me Tonight 🎶
 
 ---
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IsviCastillo&repo=IsviCastillo&countColorcountColor&countColor=%2300B4D8"/>
