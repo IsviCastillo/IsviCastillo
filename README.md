@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Isvi+Castillo;I'm+a+Software+Development+Engineering+student)](https://git.io/typing-svg)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+###  &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/IsviCastillo">
@@ -11,10 +11,3 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsviCastillo&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/IsviCastillo">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia"/>
-  </a>
-</p>
-
