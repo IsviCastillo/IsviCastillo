@@ -12,10 +12,6 @@
   </a>
 </p>
 
-## 🎵 Nostalgic song
+## 🎵 Spotify Playing
 
-<p align="center">
-  <a href="https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6">
-    <img src="https://img.shields.io/badge/🎧_Listen_Hear_Me_Tonight-00B4D8?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-</p>
+[![Spotify](https://spotify-now-playing-isvicastillo.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
