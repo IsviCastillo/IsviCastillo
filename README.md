@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Isvi+Castillo;I'm+a+Software+Development+Engineering+student)](https://git.io/typing-svg)
 
-
+<p align="center" width="150px">I am a student in the Software Development Engineering program.<br>I am currently learning the fundamentals of Java. After completing my studies, I want to specialize in cybersecurity.</p>
 ###  &nbsp;GitHub Analytics
 
 <p align="center">
