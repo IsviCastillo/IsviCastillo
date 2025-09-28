@@ -12,6 +12,12 @@
   </a>
 </p>
 
-## 🎵 Spotify Playing
 
-[![Spotify](https://spotify-now-playing-isvicastillo.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+## 🎵 Currently Playing
+
+<div align="center">
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31qpjq5x4fqj4e7v3vowj5nqibpi&count=1&width=400)
+
+</div>
+
