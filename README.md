@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Vatan+Agnihotri;I'm+a+Freelancer+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Isvi+Castillo;I'm+a+student+Development+Engineering)](https://git.io/typing-svg)
 
 <!--
 **IsviCastillo/IsviCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: I am a student of Software Development Engineering.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
