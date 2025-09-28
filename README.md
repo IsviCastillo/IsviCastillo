@@ -4,6 +4,23 @@
 
 <p align="center" width="150px">I am a student in the Software Development Engineering program.<br>I am currently learning the fundamentals of Java. After completing my studies, I want to specialize in cybersecurity.</p>
 
+### 🚀 My Tech Stack:
+
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
+    <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
+</p>
+
+<br>
+
 ###  &nbsp;GitHub Analytics
 
 <p align="center">
