@@ -13,11 +13,10 @@
 </p>
 
 
-## 🎵 Currently Playing
+### 🎵 Nostalgic song
 
-<div align="center">
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31qpjq5x4fqj4e7v3vowj5nqibpi&count=1&width=400)
-
-</div>
-
+<p align="center">
+  <a href="https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6">
+    🎶 **Modjo - Hear Me Tonight**
+  </a>
+</p>
