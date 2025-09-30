@@ -24,13 +24,3 @@
 
     
 
-</p>
-
-### 🎵 Nostalgic song
-
-<p align="center">
-  <a href="https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6">
-    <img src="https://img.shields.io/badge/🎧_Listen_Hear_Me_Tonight-00B4D8?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
