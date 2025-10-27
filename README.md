@@ -1,51 +1,51 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=35&center=true&vCenter=true&width=1000&lines=¡Hola!+Soy+Isvi+Castillo+👋;Estudiante+de+Ingeniería+en+Desarrollo+de+Software;Aprendiendo+y+Creciendo+Cada+Día+🚀)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Isvi+Castillo+👋;Software+Development+Engineering+Student;Always+Learning,+Always+Growing+🚀)](https://git.io/typing-svg)
 </div>
 
-## 👨‍🎓 Sobre Mí
+## 👨‍🎓 About Me
 
-Soy un **estudiante universitario** apasionado por la tecnología y el desarrollo de software. Actualmente me encuentro en mi etapa de formación en **Ingeniería en Desarrollo de Software**, construyendo bases sólidas en programación y desarrollo web. 
+I'm a **university student** passionate about technology and software development. Currently pursuing my degree in **Software Development Engineering**, building solid foundations in programming and web development.
 
-🎯 **Mi objetivo**: Especializarme en dos áreas que me fascinan: **Ciberseguridad** 🔐 e **Inteligencia Artificial** 🤖
+🎯 **My Goal**: Specialize in two fascinating areas: **Cybersecurity** 🔐 and **Artificial Intelligence** 🤖
 
-💡 **Mi enfoque**: Aprendizaje constante y mejora continua  
-📍 **Ubicación**: El Salvador 🇸🇻
+💡 **My Approach**: Continuous learning and constant improvement  
+📍 **Location**: El Salvador 🇸🇻
 
-## 📚 Lo Que Estoy Aprendiendo
+## 📚 Currently Learning
 
 <div align="center">
 
-### Lenguajes en Progreso
+### Languages in Progress
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Herramientas de Desarrollo
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### Intereses Futuros
+### Future Interests
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=security&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-00ADD8?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-## 🎯 Objetivos Actuales
+## 🎯 Current Goals
 
-- 📖 **Dominar los fundamentos**: Java, JavaScript, HTML y CSS
-- 💻 **Crear proyectos prácticos** para aplicar lo aprendido en la universidad
-- 🌐 **Desarrollar aplicaciones web** funcionales y responsivas
-- 📱 **Explorar desarrollo frontend y backend**
-- 🔒 **Iniciarme en conceptos básicos de ciberseguridad**
-- 🤖 **Comprender los fundamentos de la Inteligencia Artificial**
+- 📖 **Master the fundamentals**: Java, JavaScript, HTML and CSS
+- 💻 **Build practical projects** to apply university knowledge
+- 🌐 **Develop functional and responsive web applications**
+- 📱 **Explore frontend and backend development**
+- 🔒 **Start learning basic cybersecurity concepts**
+- 🤖 **Understand the fundamentals of Artificial Intelligence**
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10"/>
@@ -56,49 +56,37 @@ Soy un **estudiante universitario** apasionado por la tecnología y el desarroll
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-## 🚀 Mi Camino Académico
+## 🚀 My Academic Path
 
 ```mermaid
 graph LR
-    A[🎓 Fundamentos] --> B[💻 Desarrollo Web]
-    B --> C[🔐 Ciberseguridad]
-    B --> D[🤖 IA & ML]
-    C --> E[🎯 Especialista]
+    A[🎓 Fundamentals] --> B[💻 Web Development]
+    B --> C[🔐 Cybersecurity]
+    B --> D[🤖 AI & ML]
+    C --> E[🎯 Specialist]
     D --> E
 ```
 
-**Etapa Actual**: Construyendo bases sólidas en programación  
-**Próximo Nivel**: Proyectos más complejos y especializaciones avanzadas
+**Current Stage**: Building solid programming foundations  
+**Next Level**: More complex projects and advanced specializations
 
-## 💡 Filosofía de Aprendizaje
+## 📂 University Projects
 
-## 📂 Proyectos Universitarios
-
-Este espacio está en construcción 🏗️  
-Próximamente compartiré proyectos de:
-- Aplicaciones web con HTML, CSS y JavaScript
-- Programas en Java
-- Ejercicios y prácticas universitarias
-- Proyectos personales de aprendizaje
-
-## 📫 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-
-</div>
+This space is under construction 🏗️  
+Coming soon, projects about:
+- Web applications with HTML, CSS and JavaScript
+- Java programs
+- University exercises and practices
+- Personal learning projects
 
 <div align="center">
   
-  ### 🌱 Siempre Aprendiendo, Siempre Creciendo
+  ### 🌱 Always Learning, Always Growing
   
   ![Visitor Count](https://profile-counter.glitch.me/IsviCastillo/count.svg)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-  **¡Gracias por visitar mi perfil!** ⭐
+  **Thanks for visiting my profile!** ⭐
   
 </div>
