@@ -2,60 +2,95 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Isvi+Castillo+👋;Software+Development+Engineering+Student;Always+Learning,+Always+Growing+🚀)](https://git.io/typing-svg)
+<h1>¡Hola! Soy Isvi Castillo 👋</h1>
+
+<p>
+  Estudiante de Ingeniería en Desarrollo de Software con interés en
+  Ciberseguridad y Inteligencia Artificial. Me apasiona aprender con proyectos
+  reales, colaborar en equipo y compartir lo que aprendo.
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=28&center=true&vCenter=true&width=800&lines=Software+Development+Engineering+Student;Cybersecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Sobre mí
 
-Hi! I'm **Isvi Castillo**, a passionate **Software Development Engineering student** from **El Salvador 🇸🇻**.  
-I love learning new technologies and improving my skills through hands-on projects and collaboration.
+- Nombre: Isvi Castillo  
+- País: El Salvador 🇸🇻  
+- Perfil: Estudiante de Ingeniería en Desarrollo de Software  
+- Intereses principales: Ciberseguridad, Inteligencia Artificial, Desarrollo Web
 
-🎯 **Goal:** Specialize in **Cybersecurity** 🔐 and **Artificial Intelligence (AI)** 🤖  
-💡 **Philosophy:** Continuous learning and constant self-improvement  
-🌎 **Motto:** “Always Learning, Always Growing”  
+Mi enfoque es combinar la teoría que aprendo en la universidad con proyectos prácticos. Busco oportunidades para colaborar, mejorar mi portafolio y especializarme en seguridad y modelos de IA.
 
 ---
 
-## 📚 Currently Learning
+## 🧰 Tecnologías y herramientas
 
+Lenguajes:
+- Java, JavaScript, HTML5, CSS3
+
+Herramientas:
+- Git, GitHub, Visual Studio Code, IntelliJ IDEA
+
+Intereses y áreas a aprender:
+- Ciberseguridad, Machine Learning, Frameworks web modernos
+
+Badges:
 <div align="center">
 
-### 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### 🚀 Future Interests
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=security&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00ADD8?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🔭 Proyectos destacados
 
-- 📘 Strengthen fundamentals in **Java, JavaScript, HTML, and CSS**  
-- 💻 Build **practical projects** applying university knowledge  
-- 🌐 Develop **responsive and functional web applications**  
-- ⚙️ Explore **frontend** and **backend** development  
-- 🔒 Begin learning **Cybersecurity** principles  
-- 🤖 Dive into **Artificial Intelligence basics**
+Aquí puedes listar tus proyectos con una línea descriptiva y enlace al repo o demo. Ejemplo:
+
+- [Proyecto-1](https://github.com/IsviCastillo/proyecto-1) — Aplicación web para ...
+- [Proyecto-2](https://github.com/IsviCastillo/proyecto-2) — Herramienta de análisis de ...
+
+(Si quieres, puedo ayudarte a añadir las entradas reales con descripción y capturas.)
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Objetivos actuales
+
+- Fortalecer fundamentos en Java, JavaScript, HTML y CSS.
+- Construir proyectos prácticos que demuestren buenas prácticas.
+- Aprender principios de Ciberseguridad y herramientas básicas.
+- Empezar a aplicar conceptos básicos de IA y Machine Learning.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/IsviCastillo  
+- Email: (añadir correo)  
+- LinkedIn / Twitter: (añadir enlaces si los usas)
+
+Si quieres que añada enlaces y correo, compártelos y los incluyo.
+
+---
+
+## 🤝 Cómo colaborar
+
+- Abre un issue si encuentras un bug o quieres proponer una mejora.
+- Si quieres contribuir, haz un fork, crea una rama con tu cambio y envía un PR con una descripción clara.
+- Etiqueta issues con "good first issue" si quieres que te proponga tareas para principiantes.
+
+---
+
+## 📊 Mis estadísticas en GitHub
 
 <div align="center">
 
@@ -70,12 +105,24 @@ I love learning new technologies and improving my skills through hands-on projec
 
 ---
 
-## 🚀 My Academic Path
+## 🗺️ Roadmap (a corto plazo)
 
 ```mermaid
 graph LR
-    A[🎓 Fundamentals] --> B[💻 Web Development]
-    B --> C[🔐 Cybersecurity]
-    B --> D[🤖 AI & Machine Learning]
-    C --> E[🎯 Specialist]
-    D --> E
+  A[🎓 Fundamentos] --> B[💻 Desarrollo Web]
+  B --> C[🔐 Ciberseguridad]
+  B --> D[🤖 IA & Machine Learning]
+  C --> E[🎯 Especialización]
+  D --> E
+```
+
+---
+
+## 📌 Nota final
+
+Este README está pensado para ser claro, fácil de mantener y atractivo para quien visite tu perfil. Puedo:
+- Añadir enlaces a tus proyectos reales y capturas.
+- Subir esta versión al repo en una rama y abrir un PR.
+- Traducirlo al inglés o crear una versión bilingüe.
+
+¿Quieres que haga el commit y abra un pull request con esta versión?
