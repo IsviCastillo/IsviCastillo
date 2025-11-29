@@ -1,41 +1,36 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Isvi+Castillo+👋;Software+Development+Engineering+Student;Always+Learning,+Always+Growing+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2D4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Isvi+Castillo+👋;Software+Engineering+Student;Cybersecurity+%26+AI+Enthusiast+🚀)](https://git.io/typing-svg)
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-Hi! I'm **Isvi Castillo**, a passionate **Software Development Engineering student** from **El Salvador 🇸🇻**.  
-I love learning new technologies and improving my skills through hands-on projects and collaboration.
+Software Engineering student from **El Salvador 🇸🇻** passionate about building secure and intelligent systems.
 
-🎯 **Goal:** Specialize in **Cybersecurity** 🔐 and **Artificial Intelligence (AI)** 🤖  
-💡 **Philosophy:** Continuous learning and constant self-improvement  
-🌎 **Motto:** “Always Learning, Always Growing”  
+🎯 **Specializing in:** Cybersecurity 🔐 & Artificial Intelligence 🤖  
+💡 **Philosophy:** Continuous learning through hands-on projects  
+🌎 **Motto:** "Always Learning, Always Growing"
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🧠 Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Development Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 🚀 Future Interests
+### Exploring
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=security&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-00ADD8?style=for-the-badge&logo=python&logoColor=white)
@@ -44,14 +39,12 @@ I love learning new technologies and improving my skills through hands-on projec
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-- 📘 Strengthen fundamentals in **Java, JavaScript, HTML, and CSS**  
-- 💻 Build **practical projects** applying university knowledge  
-- 🌐 Develop **responsive and functional web applications**  
-- ⚙️ Explore **frontend** and **backend** development  
-- 🔒 Begin learning **Cybersecurity** principles  
-- 🤖 Dive into **Artificial Intelligence basics**
+- 💻 Building **full-stack web applications**
+- 🔒 Learning **security best practices** and penetration testing
+- 🤖 Exploring **AI/ML fundamentals** and practical applications
+- 📚 Strengthening **data structures & algorithms**
 
 ---
 
@@ -70,12 +63,23 @@ I love learning new technologies and improving my skills through hands-on projec
 
 ---
 
-## 🚀 My Academic Path
+## 🚀 Learning Roadmap
 
 ```mermaid
 graph LR
-    A[🎓 Fundamentals] --> B[💻 Web Development]
+    A[🎓 Core CS] --> B[💻 Full-Stack Dev]
     B --> C[🔐 Cybersecurity]
-    B --> D[🤖 AI & Machine Learning]
-    C --> E[🎯 Specialist]
+    B --> D[🤖 AI & ML]
+    C --> E[🎯 Security Specialist]
     D --> E
+```
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-IsviCastillo-181717?style=for-the-badge&logo=github)](https://github.com/IsviCastillo)
+
+</div>
