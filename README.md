@@ -52,8 +52,6 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsviCastillo&layout=compact&langs_count=8&theme=algolia&border_radius=10"/>
 
 <br>
 
@@ -77,8 +75,6 @@ graph LR
 ---
 
 <div align="center">
-
-### 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-IsviCastillo-181717?style=for-the-badge&logo=github)](https://github.com/IsviCastillo)
 
