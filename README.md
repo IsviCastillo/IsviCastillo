@@ -4,15 +4,6 @@
 
 </div>
 
-## 👨‍💻 About Me
-
-Software Engineering student from **El Salvador 🇸🇻** passionate about building secure and intelligent systems.
-
-🎯 **Specializing in:** Cybersecurity 🔐 & Artificial Intelligence 🤖  
-💡 **Philosophy:** Continuous learning through hands-on projects  
-🌎 **Motto:** "Always Learning, Always Growing"
-
----
 
 ## 🛠️ Tech Stack
 
