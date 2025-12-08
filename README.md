@@ -19,19 +19,22 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 <div align="center">
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Exploring
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=security&logoColor=white)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=shield&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-00ADD8?style=for-the-badge&logo=python&logoColor=white)
 
@@ -50,28 +53,52 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IsviCastillo&theme=algolia&border_radius=10)
+<div align="center">
+
+![Isvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=IsviCastillo&theme=algolia&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsviCastillo&layout=compact&theme=algolia&hide_border=true)
+
+</div>
 
 ---
-
-
-
 
 ## 🚀 Learning Roadmap
 
 ```mermaid
 graph LR
-    A[🎓 Core CS] --> B[💻 Full-Stack Dev]
+    A[🎓 Software Engineering] --> B[Core Development]
     B --> C[🔐 Cybersecurity]
     B --> D[🤖 AI & ML]
     C --> E[🎯 Security Specialist]
     D --> E
+    E --> F[💼 Professional Career]
 ```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-IsviCastillo-181717?style=for-the-badge&logo=github)](https://github.com/IsviCastillo)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+
+</div>
 
 ---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-IsviCastillo-181717?style=for-the-badge&logo=github)](https://github.com/IsviCastillo)
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+
+### 👁️ Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/IsviCastillo/count.svg)
 
 </div>
