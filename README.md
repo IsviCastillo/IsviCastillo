@@ -53,9 +53,13 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IsviCastillo&theme=algolia&border_radius=10)
+<div align="center">
 
-![Isvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia&border_radius=10)
+
+![Isvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
+
+</div>
 
 ---
 
