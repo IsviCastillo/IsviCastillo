@@ -50,8 +50,8 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
+<div align="center">
 
 <br>
 
@@ -60,6 +60,7 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 </div>
 
 ---
+
 
 ## 🚀 Learning Roadmap
 
