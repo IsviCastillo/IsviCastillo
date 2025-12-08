@@ -55,15 +55,11 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/IsviCastillo?label=Stars&style=for-the-badge&logo=github&color=00C2D4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME_EXACTO&show_icons=true&theme=algolia)
 
-**📈 Profile Analytics Coming Soon!**
-
-_Building my GitHub presence one commit at a time..._
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME_EXACTO&theme=algolia)
 
 </div>
-
----
 
 ## 🚀 Learning Roadmap
 
