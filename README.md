@@ -50,14 +50,7 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<br>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=IsviCastillo&theme=algolia&border_radius=10)
-
-
-</div>
 
 ---
 
