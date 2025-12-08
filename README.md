@@ -50,16 +50,16 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=IsviCastillo&theme=algolia&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 ---
+
 
 
 ## 🚀 Learning Roadmap
