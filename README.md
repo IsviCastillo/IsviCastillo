@@ -55,9 +55,14 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia&border_radius=10)
+<a href="https://github.com/IsviCastillo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsviCastillo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
-![Isvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia" alt="IsviCastillo's streak"/>
 
 </div>
 
