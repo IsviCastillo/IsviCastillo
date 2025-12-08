@@ -55,14 +55,12 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 <div align="center">
 
-<a href="https://github.com/IsviCastillo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsviCastillo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+![GitHub Stats](https://img.shields.io/github/followers/IsviCastillo?label=Followers&style=for-the-badge&logo=github&color=00C2D4)
+![GitHub Stars](https://img.shields.io/github/stars/IsviCastillo?label=Stars&style=for-the-badge&logo=github&color=00C2D4)
 
-<br/>
+**📈 Profile Analytics Coming Soon!**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia" alt="IsviCastillo's streak"/>
+_Building my GitHub presence one commit at a time..._
 
 </div>
 
