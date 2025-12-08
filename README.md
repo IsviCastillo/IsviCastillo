@@ -55,7 +55,6 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/github/followers/IsviCastillo?label=Followers&style=for-the-badge&logo=github&color=00C2D4)
 ![GitHub Stars](https://img.shields.io/github/stars/IsviCastillo?label=Stars&style=for-the-badge&logo=github&color=00C2D4)
 
 **📈 Profile Analytics Coming Soon!**
