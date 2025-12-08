@@ -53,15 +53,9 @@ Software Engineering student from **El Salvador 🇸🇻** passionate about buil
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=IsviCastillo&theme=algolia&border_radius=10)
 
-![Isvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IsviCastillo&theme=algolia&hide_border=true&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsviCastillo&layout=compact&theme=algolia&hide_border=true)
-
-</div>
+![Isvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&count_private=true)
 
 ---
 
@@ -74,31 +68,12 @@ graph LR
     B --> D[🤖 AI & ML]
     C --> E[🎯 Security Specialist]
     D --> E
-    E --> F[💼 Professional Career]
 ```
 
 ---
 
-## 📫 Connect With Me
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-IsviCastillo-181717?style=for-the-badge&logo=github)](https://github.com/IsviCastillo)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
-### 👁️ Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/IsviCastillo/count.svg)
 
 </div>
