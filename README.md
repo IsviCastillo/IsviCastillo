@@ -4,7 +4,6 @@
 
 </div>
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -46,11 +45,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME_EXACTO&show_icons=true&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME_EXACTO&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsviCastillo&theme=algolia)
 
 </div>
+
+---
 
 ## 🚀 Learning Roadmap
 
