@@ -33,15 +33,7 @@ Focused on building solid technical foundations and practical projects.
 
 ---
 
-## 📊 GitHub Overview
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsviCastillo&show_icons=true&theme=algolia&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
